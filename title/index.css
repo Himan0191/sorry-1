@@ -1,0 +1,24 @@
+.item{
+    padding:100px 50px ;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    
+} 
+
+    .header-item{
+        color: #272727;
+    text-align: center;
+    padding: 40px 50px;
+    font-weight: 800;
+       
+    }
+
+   .item img{
+    height: 200px;
+    width: 300px;
+    text-align: center;
+   margin-bottom: 20px;
+   }
+       
+    
+    
